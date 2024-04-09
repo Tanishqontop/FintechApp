@@ -1,8 +1,7 @@
 # FintechApp
 
-This is a React Native FinTech clone using Clerk for user authentication with OTP. This app was inspired by the Revolut app.
-
-Additional features:
+This is a React Native FinTech App made using Clerk for user authentication with OTP.
+App features:
 
 - Expo Router file-based navigation and API Routes
 - SMS OTP Auth with Clerk
